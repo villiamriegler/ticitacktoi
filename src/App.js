@@ -1,4 +1,3 @@
-import './game.js'
 import './App.css';
 
 function App() {
